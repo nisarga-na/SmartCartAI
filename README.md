@@ -59,7 +59,7 @@ SmartCartAI/
 ### Clone Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/SmartCartAI.git
+git clone https://github.com/nisarga-na/SmartCartAI.git
 ```
 
 ### Backend
